@@ -1,13 +1,13 @@
 {
     "configurations": [
-    {
-        "type": "cppdbg",
-        "request": "launch",
-        "name": "Launch",
-        "program": "${workspaceFolder}/build/main.exe",
-        "preLaunchTask": "build",
-        "args": [],
-        "cwd": "${workspaceFolder}"
-    }
+        {
+            "type": "cppdbg",
+            "request": "launch",
+            "name": "Launch",
+            "program": "${workspaceFolder}/build/main.exe",
+            "preLaunchTask": "build",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
     ]
 }
